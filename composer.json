@@ -1,0 +1,21 @@
+{
+    "name": "chudaozhe/unlimitedclassified",
+    "description": "This is a unlimited classified",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Chudaozhe\\Unlimitedclassified\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Everan\\UnlimitedClassified\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chudaozhe"
+        }
+    ],
+    "require": {}
+}
