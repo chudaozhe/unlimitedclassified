@@ -9,7 +9,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Everan\\UnlimitedClassified\\Tests\\": "tests/"
+            "Chudaozhe\\UnlimitedClassified\\Tests\\": "tests/"
         }
     },
     "authors": [
