@@ -22,7 +22,10 @@
         "laravel": {
             "providers": [
                 "Chudaozhe\\UnlimitedClassified\\UnlimitedClassifiedServiceProvider"
-            ]
+            ],
+            "aliases": {
+                "UnlimitedClassified": "Chudaozhe\\UnlimitedClassified\\Facades\\UnlimitedClassified"
+            }
         }
     }
 }
