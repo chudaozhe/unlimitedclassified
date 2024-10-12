@@ -17,5 +17,12 @@
             "name": "chudaozhe"
         }
     ],
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Chudaozhe\\UnlimitedClassified\\UnlimitedClassifiedServiceProvider"
+            ]
+        }
+    }
 }
